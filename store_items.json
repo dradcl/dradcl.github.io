@@ -1,0 +1,25 @@
+{
+    "products": [
+        {
+            "id": "rs7",
+            "product_name": "2022 RS 7 Sportback",
+            "price": "118,500",
+            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMP4MkPnLU9Mwh8jZC4ZaxVVtY1zd5jKNP0MGC2ayPM2Ps3g5Q",
+            "description": "The track-inspired Audi RS 7 captivates with unbridled power and a kinetic presence."
+        },
+        {
+            "id": "r8",
+            "product_name": "2022 R8 performance Coupe",
+            "price": "148,700",
+            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSh6X008R5yDaXpNME40womMD5ZgnUfivFTWcHZjU8n-_vaD6z3",
+            "description": "The Audi R8 performance Coupe brings the racing-inspired performance you seek with uncompromised styling. This is your opportunity to enjoy the exhilarating performance that lies within."
+        },
+        {
+            "id": "ttrs",
+            "product_name": "2022 TT RS Coupe",
+            "price": "73,200",
+            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNBcR3QScAFZejxKeEx0MziDxYc-K0heltrYuqwB66OHeIwsX6",
+            "description": "With a dynamic look, the 2022 TT RS features a 2.5-liter engine and delivers a distinctive 5-cylinder sound, which harkens back to the original turbocharged 5-cylinder of the Ur-quattro."
+        }
+    ]
+}
