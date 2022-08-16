@@ -3,5 +3,7 @@ module.exports = {
   images: {
     loader: "akamai",
     "path": ""
-  }
+  },
+  basePath: "/karmakittenx.github.io",
+  assetPrefix: "/karmakittenx.github.io"
 };
