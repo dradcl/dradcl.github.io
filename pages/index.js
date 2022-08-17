@@ -28,7 +28,6 @@ function Portfolio() {
     return (
       <Container>
         <Head>
-          <meta name="viewport" content="initial-scale=1.0, width=device-width" />
           <meta property="og:title" content="Dominick's Portfolio" />
           <meta property="og:type" content="website" />
           <meta property="og:url" content="https://dradcliffe.me/" />
