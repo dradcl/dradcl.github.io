@@ -69,7 +69,7 @@ function Portfolio() {
                 borderColor: '#00FFF5'
               }}
               alt="me"
-              src="https://media-exp2.licdn.com/dms/image/C4D03AQEVderMYSXbww/profile-displayphoto-shrink_800_800/0/1644619419517?e=1662595200&v=beta&t=8UCbqDtxI55m7s9hJtjyAdke96M0O4hjNGEU_8bYqyk"
+              src="https://media.discordapp.net/attachments/630277945507708928/1009268124283060244/1644619419517.jpg"
             />
           </Grid>
           </Fade>
