@@ -72,11 +72,50 @@ function Portfolio() {
             />
           </Grid>
           </Fade>
+          <Container id='projects'>
           <Grid item xs={12}>
               <Typography variant='h2' color='white' sx={{borderBottom: 1, borderColor: '#00FFF5'}}>My Projects</Typography>
           </Grid>
+          </Container>
         </Grid>
         <Projects />
+        <Container id='about'>
+          <Grid container spacing={1}>
+                <Grid item>
+                  <Box></Box>
+                </Grid>
+                <Grid item xs={12}>
+                  <Typography variant='h2' color='white' sx={{borderBottom: 1, borderColor: '#00FFF5'}}>About Me</Typography>
+                </Grid>
+                <Grid item xs={12}>
+                  <Typography style={{display: 'inline-block'}}></Typography>
+                  <Typography variant="body1" color="white">From a young age, I was fascinated by technology and what makes it work. As a result, 
+                  I am now a junior studying computer science at Michigan State University. I started to code my own projects based on my interests 
+                  around my junior year of high school and have continued to do the same since. Besides this field, I enjoy astronomy, meteorology, 
+                  biking, video games, and of course my cat Daisy. My favorite thing about computer science is that it has the unique advantage of being so broad that it 
+                  can be applied to any situation or subfield. As a result, it allows me to mix my own interests with what I am learning and invent something 
+                  entirely new.
+                  </Typography>
+                </Grid>
+                <Grid item xs={12}>
+                  <Typography style={{display: 'inline-block'}}></Typography>
+                </Grid>
+                <Grid item xs={4.75}>
+                  <Typography style={{display: 'inline-block'}}></Typography>
+                </Grid>
+                <Grid item xs={3}>
+                  <Box
+                    component="img"
+                    sx={{
+                      height: 230,
+                      width: 230,
+                    }}
+                    alt="msu"
+                    src="https://upload.wikimedia.org/wikipedia/en/a/a7/Michigan_State_Athletics_logo.svg"
+                  />
+                </Grid>
+          </Grid>
+        </Container>
       </Container>
     );
 }
