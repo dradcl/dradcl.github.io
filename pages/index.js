@@ -34,6 +34,7 @@ function Portfolio() {
           <meta property="og:image" content="https://media-exp2.licdn.com/dms/image/C4D03AQEVderMYSXbww/profile-displayphoto-shrink_800_800/0/1644619419517?e=1662595200&v=beta&t=8UCbqDtxI55m7s9hJtjyAdke96M0O4hjNGEU_8bYqyk" />
           <meta property="og:description" content="About me, my projects, and experience." />
           <meta name="theme-color" content="#00FFF5" />
+          <title>My Portfolio</title>
         </Head>
         <GlobalStyles
           styles= {{
