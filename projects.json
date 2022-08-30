@@ -99,6 +99,26 @@
             "link": "https://github.com/karmakittenx/give-weapons",
             "languages": "Angelscript",
             "contributors": "1 contributor"
+        },
+        {
+            "id": "skribbl",
+            "project_name": "Skribbl.io Tool",
+            "date": "April 2020",
+            "image": "https://media.discordapp.net/attachments/701286086567002125/742784096505298974/unknown.png",
+            "description": "A tool to help solve your skribbl.io games. For educational purposes only.",
+            "link": "",
+            "languages": "C#",
+            "contributors": "1 contributor"
+        },
+        {
+            "id": "nova",
+            "project_name": "Nova",
+            "date": "April 2020",
+            "image": "https://media.discordapp.net/attachments/701286086567002125/1014015490269650984/unknown.png",
+            "description": "A modern text editor with productivity features. I never got around to finishing it.",
+            "link": "",
+            "languages": "C#",
+            "contributors": "1 contributor"
         }
     ]
 }

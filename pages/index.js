@@ -40,7 +40,7 @@ function Portfolio() {
             body: { backgroundColor: "#222831" }
           }}
         />,
-        <ResponsiveAppBar></ResponsiveAppBar>
+        <ResponsiveAppBar/>
         <Grid
           container
           spacing={2}
@@ -91,7 +91,7 @@ function Portfolio() {
                   <Typography style={{display: 'inline-block'}}></Typography>
                   <Typography variant="body1" color="white">From a young age, I was fascinated by technology and what makes it work. As a result, 
                   I am now a junior studying computer science at Michigan State University. I started to code my own projects based on my interests 
-                  around my junior year of high school and have continued to do the same since. Besides this field, I enjoy astronomy, meteorology, 
+                  around my junior year of high school and have continued to do the same since. Besides this field, I enjoy cars, astronomy, meteorology, 
                   biking, video games, and of course my cat Daisy. My favorite thing about computer science is that it has the unique advantage of being so broad that it 
                   can be applied to any situation or subfield. As a result, it allows me to mix my own interests with what I am learning and invent something 
                   entirely new.
