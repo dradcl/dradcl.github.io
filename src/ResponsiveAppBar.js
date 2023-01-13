@@ -14,7 +14,7 @@ import HomeIcon from '@mui/icons-material/Home';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 
-const pages = [{'name': 'About', 'href': '#about'}, {'name': 'Projects', 'href': '#projects'}, {'name': 'Resume', 'href': 'https://cdn.discordapp.com/attachments/625176268488310794/1063489779582390332/Dominick_Radcliffe_Resume.pdf'}, {'name': 'Blog', 'href': '/blog'} ];
+const pages = [{'name': 'About', 'href': '#about'}, {'name': 'Projects', 'href': '#projects'}, {'name': 'Resume', 'href': 'https://cdn.discordapp.com/attachments/625176268488310794/1063490114392703036/Dominick_Radcliffe_Resume.pdf'}, {'name': 'Blog', 'href': '/blog'} ];
 const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
 
 const ResponsiveAppBar = () => {
