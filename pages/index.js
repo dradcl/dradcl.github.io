@@ -90,12 +90,12 @@ function Portfolio() {
                 </Grid>
                 <Grid item xs={12}>
                   <Typography style={{display: 'inline-block'}}></Typography>
-                  <Typography variant="body1" color="white">From a young age, I was fascinated by technology and what makes it work. As a result, 
-                  I am now a junior studying computer science at Michigan State University. I started to code my own projects based on my interests 
-                  around my junior year of high school and have continued to do the same since. Besides this field, I enjoy cars, astronomy, meteorology, 
-                  biking, video games, and of course my cat Daisy. My favorite thing about computer science is that it has the unique advantage of being so broad that it 
-                  can be applied to any situation or subfield. As a result, it allows me to mix my own interests with what I am learning and invent something 
-                  entirely new.
+                  <Typography variant="body1" color="white">From a young age, I developed a keen interest in technology and its underlying mechanics. 
+                  This passion led me to pursue a degree in computer science at Michigan State University, where I am currently a junior. I began experimenting 
+                  with coding and creating my own projects during my junior year of high school, and have continued to do so ever since. In addition to computer science, 
+                  I also have interests in automotive engineering, astronomy, meteorology, biking, and video games, and am an avid animal lover. What I find particularly 
+                  appealing about computer science is its versatility and the ability to apply it to a wide range of fields and disciplines. This allows me to combine my 
+                  personal interests with my studies and create innovative solutions.
                   </Typography>
                 </Grid>
                 <Grid item xs={12}>
