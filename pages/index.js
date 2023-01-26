@@ -93,7 +93,7 @@ function Portfolio() {
                   <Typography variant="body1" color="white">From a young age, I developed a keen interest in technology and its underlying mechanics. 
                   This passion led me to pursue a degree in computer science at Michigan State University, where I am currently a junior. I began experimenting 
                   with coding and creating my own projects during my junior year of high school, and have continued to do so ever since. In addition to computer science, 
-                  I also have interests in automotive engineering, astronomy, meteorology, biking, and video games, and am an avid animal lover. What I find particularly 
+                  I also have interests in cars, astronomy, meteorology, biking, and video games, and am an avid animal lover. What I find particularly 
                   appealing about computer science is its versatility and the ability to apply it to a wide range of fields and disciplines. This allows me to combine my 
                   personal interests with my studies and create innovative solutions.
                   </Typography>
