@@ -28,7 +28,6 @@ function Portfolio() {
     return (
       <Container>
         <Head>
-          <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:;"/>
           <meta property="og:title" content="Dominick's Portfolio" />
           <meta property="og:type" content="website" />
           <meta property="og:url" content="https://dradcl.github.io/" />
@@ -70,7 +69,7 @@ function Portfolio() {
                 borderColor: '#00FFF5'
               }}
               alt="me"
-              src="https://media.discordapp.net/attachments/630277945507708928/1009268124283060244/1644619419517.jpg"
+              src="/images/me.jpg"
             />
           </Grid>
           </Fade>
