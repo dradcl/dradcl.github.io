@@ -1,9 +1,9 @@
 module.exports = {
-  reactStrictMode: true,
+  reactStrictMode: false,
   images: {
     loader: "akamai",
     "path": ""
   },
-  basePath: "/dradcl.github.io",
-  assetPrefix: "/dradcl.github.io"
+  basePath: "",
+  assetPrefix: ""
 };
