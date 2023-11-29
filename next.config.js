@@ -4,6 +4,6 @@ module.exports = {
     loader: "akamai",
     "path": ""
   },
-  basePath: "",
-  assetPrefix: ""
+  basePath: "/dradcl.github.io",
+  assetPrefix: "/dradcl.github.io"
 };
