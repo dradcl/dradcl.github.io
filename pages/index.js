@@ -28,6 +28,7 @@ function Portfolio() {
     return (
       <Container>
         <Head>
+          <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:;"/>
           <meta property="og:title" content="Dominick's Portfolio" />
           <meta property="og:type" content="website" />
           <meta property="og:url" content="https://dradcl.github.io/" />
