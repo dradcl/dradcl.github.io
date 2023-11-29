@@ -30,7 +30,7 @@ function Portfolio() {
         <Head>
           <meta property="og:title" content="Dominick's Portfolio" />
           <meta property="og:type" content="website" />
-          <meta property="og:url" content="https://dradcliffe.me/" />
+          <meta property="og:url" content="https://dradcl.github.io/" />
           <meta property="og:image" content="https://media-exp2.licdn.com/dms/image/C4D03AQEVderMYSXbww/profile-displayphoto-shrink_800_800/0/1644619419517?e=1662595200&v=beta&t=8UCbqDtxI55m7s9hJtjyAdke96M0O4hjNGEU_8bYqyk" />
           <meta property="og:description" content="About me, my projects, and experience." />
           <meta name="theme-color" content="#00FFF5" />
@@ -54,8 +54,8 @@ function Portfolio() {
             <Typography variant="h2" color="white"> Hey, I'm Dominick Radcliffe. </Typography>
             <Typography style={{display: 'inline-block'}}></Typography>
             <Typography variant="body1" color="white"> An aspiring Software Engineer studying Computer Science at Michigan State University.
-            I have been programming for about 4 years now in various languages and frameworks seen below. I love to translate my hobbies and ideas
-            into code for the world to enjoy. Currently, my goal is to secure an internship to get hands on experience of programming in the real world.</Typography>
+            I have been programming for about 5 years now in various languages and frameworks seen below. I love to translate my hobbies and ideas
+            into code for the world to enjoy. Currently, my goal is to secure a full-time position with an innovative company to apply myself professionally.</Typography>
           </Grid>
           <Fade in={choice === true} timeout={4000}>
           <Grid item xs={3}>
